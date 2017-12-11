@@ -1,0 +1,5 @@
+复制以下地址，并作为迅雷等下载工具的下载任务，来实现文件的批量下载：
+http://jsformfiles.oss-cn-hangzhou.aliyuncs.com/yDpQGGaJE2.jpg
+http://jsformfiles.oss-cn-hangzhou.aliyuncs.com/JwEsFZScYG.jpg
+http://jsformfiles.oss-cn-hangzhou.aliyuncs.com/J6TJdZ5EP7.jpg
+http://jsformfiles.oss-cn-hangzhou.aliyuncs.com/JnszhcXksd.jpg
